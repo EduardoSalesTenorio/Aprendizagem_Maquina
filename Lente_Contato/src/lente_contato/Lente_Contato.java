@@ -1,10 +1,6 @@
 
 package lente_contato;
 
-/**
- *
- * @author °°
- */
 public class Lente_Contato {
 
     /**
